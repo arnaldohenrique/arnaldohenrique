@@ -1,4 +1,4 @@
- 💫 About Me: <br>
+ 💫 **About Me:** <br>
 <br>Sou Arnaldo Henrique, tambem chamado de "Naldo". <br>Louco para aprender mais sobre dev front-end e me tornar futuramente um FULL STACK! 
 ---
 
@@ -11,9 +11,11 @@
 ---
 
  📊 GitHub Stats: <br>
-![](https://github-readme-stats.vercel.app/api?username=arnaldohenrique&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=arnaldohenrique&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldohenrique&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+ <div>
+  <a href="https://github.com/arnaldohenrique">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaldohenrique&theme=dark&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldohenrique&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
+ </div>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=arnaldohenrique&icon=9&color=0)](https://visitcount.itsvg.in)
