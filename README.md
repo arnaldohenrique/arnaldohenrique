@@ -17,5 +17,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldohenrique&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
  </div>
 
-<br>
+---
 [![](https://visitcount.itsvg.in/api?id=arnaldohenrique&icon=9&color=0)](https://visitcount.itsvg.in)
