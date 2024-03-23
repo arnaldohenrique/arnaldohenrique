@@ -7,6 +7,7 @@
 - 🌱 Atualmente estou aprendendo JavaScript e Node.js
 - 🔎 Tenho interesse em aprender e conhecer novos idiomas.
 - 🎮 No meu tempo livre gosto de ver animes e jogar.
+- 🐱 Adoro gatos, tenho 7 atualmente.
 
 ### Tecnologias e Ferramentas 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
