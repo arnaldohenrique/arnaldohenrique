@@ -25,8 +25,8 @@
  ### GitHub Stats ⚡
 <div>
   <a href="https://github.com/arnaldohenrique">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaldohenrique&theme=dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldohenrique&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img height="179em" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaldohenrique&theme=dark&hide_border=true">
+  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldohenrique&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
  ### Entre em contato comigo! 📭
