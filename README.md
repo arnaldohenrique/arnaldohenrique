@@ -4,7 +4,7 @@
 
 - 💻 Eu sou um desenvolvedor Fullstack.
 - 🎓 Estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software) na @[Cubos Academy](https://cubos.academy/)
-- 🌱 Atualmente estou aprendendo REACTJS.
+- 🌱 Atualmente estou aprendendo ReactJS.
 - 🔎 Tenho interesse em aprender e conhecer novos idiomas.
 - 🎮 No meu tempo livre gosto de ver animes e jogar.
 - 🐱 Adoro gatos, tenho 7 atualmente.
